@@ -1,0 +1,15 @@
+D:\unsafecode\bin\Debug\net6.0\unsafecode.exe
+D:\unsafecode\bin\Debug\net6.0\unsafecode.deps.json
+D:\unsafecode\bin\Debug\net6.0\unsafecode.runtimeconfig.json
+D:\unsafecode\bin\Debug\net6.0\unsafecode.dll
+D:\unsafecode\bin\Debug\net6.0\ref\unsafecode.dll
+D:\unsafecode\bin\Debug\net6.0\unsafecode.pdb
+D:\unsafecode\obj\Debug\net6.0\unsafecode.csproj.AssemblyReference.cache
+D:\unsafecode\obj\Debug\net6.0\unsafecode.GeneratedMSBuildEditorConfig.editorconfig
+D:\unsafecode\obj\Debug\net6.0\unsafecode.AssemblyInfoInputs.cache
+D:\unsafecode\obj\Debug\net6.0\unsafecode.AssemblyInfo.cs
+D:\unsafecode\obj\Debug\net6.0\unsafecode.csproj.CoreCompileInputs.cache
+D:\unsafecode\obj\Debug\net6.0\unsafecode.dll
+D:\unsafecode\obj\Debug\net6.0\ref\unsafecode.dll
+D:\unsafecode\obj\Debug\net6.0\unsafecode.pdb
+D:\unsafecode\obj\Debug\net6.0\unsafecode.genruntimeconfig.cache
