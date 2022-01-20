@@ -1,0 +1,15 @@
+D:\atmsystem\obj\Debug\net6.0\atmsystem.csproj.AssemblyReference.cache
+D:\atmsystem\obj\Debug\net6.0\atmsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\atmsystem\obj\Debug\net6.0\atmsystem.AssemblyInfoInputs.cache
+D:\atmsystem\obj\Debug\net6.0\atmsystem.AssemblyInfo.cs
+D:\atmsystem\obj\Debug\net6.0\atmsystem.csproj.CoreCompileInputs.cache
+D:\atmsystem\bin\Debug\net6.0\atmsystem.exe
+D:\atmsystem\bin\Debug\net6.0\atmsystem.deps.json
+D:\atmsystem\bin\Debug\net6.0\atmsystem.runtimeconfig.json
+D:\atmsystem\bin\Debug\net6.0\atmsystem.dll
+D:\atmsystem\bin\Debug\net6.0\ref\atmsystem.dll
+D:\atmsystem\bin\Debug\net6.0\atmsystem.pdb
+D:\atmsystem\obj\Debug\net6.0\atmsystem.dll
+D:\atmsystem\obj\Debug\net6.0\ref\atmsystem.dll
+D:\atmsystem\obj\Debug\net6.0\atmsystem.pdb
+D:\atmsystem\obj\Debug\net6.0\atmsystem.genruntimeconfig.cache
