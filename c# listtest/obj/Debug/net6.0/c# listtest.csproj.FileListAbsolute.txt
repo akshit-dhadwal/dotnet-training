@@ -1,0 +1,15 @@
+D:\c# listtest\bin\Debug\net6.0\c# listtest.exe
+D:\c# listtest\bin\Debug\net6.0\c# listtest.deps.json
+D:\c# listtest\bin\Debug\net6.0\c# listtest.runtimeconfig.json
+D:\c# listtest\bin\Debug\net6.0\c# listtest.dll
+D:\c# listtest\bin\Debug\net6.0\ref\c# listtest.dll
+D:\c# listtest\bin\Debug\net6.0\c# listtest.pdb
+D:\c# listtest\obj\Debug\net6.0\c# listtest.csproj.AssemblyReference.cache
+D:\c# listtest\obj\Debug\net6.0\c# listtest.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# listtest\obj\Debug\net6.0\c# listtest.AssemblyInfoInputs.cache
+D:\c# listtest\obj\Debug\net6.0\c# listtest.AssemblyInfo.cs
+D:\c# listtest\obj\Debug\net6.0\c# listtest.csproj.CoreCompileInputs.cache
+D:\c# listtest\obj\Debug\net6.0\c# listtest.dll
+D:\c# listtest\obj\Debug\net6.0\ref\c# listtest.dll
+D:\c# listtest\obj\Debug\net6.0\c# listtest.pdb
+D:\c# listtest\obj\Debug\net6.0\c# listtest.genruntimeconfig.cache
