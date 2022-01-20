@@ -1,0 +1,15 @@
+D:\userdefine exception\bin\Debug\net6.0\userdefine exception.exe
+D:\userdefine exception\bin\Debug\net6.0\userdefine exception.deps.json
+D:\userdefine exception\bin\Debug\net6.0\userdefine exception.runtimeconfig.json
+D:\userdefine exception\bin\Debug\net6.0\userdefine exception.dll
+D:\userdefine exception\bin\Debug\net6.0\ref\userdefine exception.dll
+D:\userdefine exception\bin\Debug\net6.0\userdefine exception.pdb
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.csproj.AssemblyReference.cache
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.AssemblyInfoInputs.cache
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.AssemblyInfo.cs
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.csproj.CoreCompileInputs.cache
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.dll
+D:\userdefine exception\obj\Debug\net6.0\ref\userdefine exception.dll
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.pdb
+D:\userdefine exception\obj\Debug\net6.0\userdefine exception.genruntimeconfig.cache
