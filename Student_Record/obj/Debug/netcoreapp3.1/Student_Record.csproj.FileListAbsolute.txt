@@ -1,0 +1,82 @@
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.exe
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.deps.json
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.json
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.dev.json
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.dll
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.pdb
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.Views.dll
+C:\Users\Ritik\source\repos\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.Views.pdb
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.AssemblyReference.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfoInputs.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfo.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorAssemblyInfo.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorAssemblyInfo.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\staticwebassets\Student_Record.StaticWebAssets.Manifest.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.TagHelpers.input.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.TagHelpers.output.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorCoreGenerate.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorTargetAssemblyInfo.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorTargetAssemblyInfo.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.Views.pdb
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.dll
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.pdb
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.genruntimeconfig.cache
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.CopyComplete
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\StudentDetail.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\_Students.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Ritik\source\repos\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Insert.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.exe
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.deps.json
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.json
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.dev.json
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.dll
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.pdb
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.Views.dll
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.Views.pdb
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.AssemblyReference.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfoInputs.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfo.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.CoreCompileInputs.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorAssemblyInfo.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorAssemblyInfo.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\staticwebassets\Student_Record.StaticWebAssets.Manifest.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.TagHelpers.input.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.TagHelpers.output.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorCoreGenerate.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\Insert.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\StudentDetail.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\Student\_Students.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorTargetAssemblyInfo.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.RazorTargetAssemblyInfo.cs
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.Views.pdb
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.dll
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.pdb
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.genruntimeconfig.cache
+C:\Users\Akshit Dadhwal\Desktop\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.CopyComplete
