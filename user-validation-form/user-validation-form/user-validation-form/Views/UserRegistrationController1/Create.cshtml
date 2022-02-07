@@ -1,0 +1,85 @@
+﻿@model user_validation_form.Models.UserClass
+
+<h1>USER REGISTRATION FORM</h1>
+<hr />
+<div class="row">
+    <div class="col-md-9">
+        <form method="post" asp-action="create" asp-controller="UserRegistrationController1">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            @*<div class="form-group">
+                <label asp-for="Id" class="custom-control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>*@
+
+
+
+            
+          @*  <div class="form-group">
+                 @Html.TextBoxFor(x => x.Id, "0", new { @class = "form-control", placeholder = "Id" })  
+                @Html.ValidationMessageFor(x => x.Id, "Please enter id", new { @class = "text-danger", style = "display:none" })  
+            </div>*@
+
+
+             <div class="form-group">
+                <label  class="custom-control-label">USERNAME</label>
+                <input type="text" name="username"  data-val="true" data-val-required="username is reqired" />
+                @Html.ValidationMessage("username")
+            </div>
+
+            <div class="form-group">
+                <label class="custom-control-label">Password</label>
+                <input name="pwd" type="password" data-val="true" data-val-required="enter your password" />
+                @Html.ValidationMessage("pwd")
+            </div>
+
+             <div class="form-group">
+                 <label class="custom-control-label"> Confirm Password</label>
+                <input name="cpwd" type="password" data-val="true" data-val-required="enter your confirm password" data-val-equalto="your password is not matched" data-val-equalto-other="pwd" />
+                @Html.ValidationMessage("cpwd")
+            </div>
+
+             <div class="form-group">
+                <label asp-for="Uemail" class="custom-control-label"></label>
+                <input asp-for="Uemail" class="form-control" />
+                <span asp-validation-for="Uemail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Gender" class="custom-control-label"></label>
+                @*<input asp-for="Uemail" class="form-control" />*@
+                <input type="radio" name="Gender" value="M" /> Male
+                <input type="radio" name="Gender" value="M" /> Female
+
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Maritalstatus" class="custom-control-label"></label>
+                
+                <select asp-for="Maritalstatus">
+                    <option selected disabled>--Select Martial Status</option>
+                    <option>Married</option>
+                    <option>Unmarried</option>
+                    <option>Widow</option>
+                </select>
+
+                <span asp-validation-for="Maritalstatus" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save User Record" class="btn alert-primary" />
+            </div>
+
+            <b>@ViewBag.message</b>
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="~/js\jquery.validate.min.js"> </script>
+    <script src="~/js\jquery.validate.unobtrusive.js"></script>
+   
+}
+ 
