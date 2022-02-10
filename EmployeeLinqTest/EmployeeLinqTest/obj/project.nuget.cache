@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARfVbbmd68mEvgls69h0lOtzAwiv1hjEJ34qkwlyVVpag/Lm20IIBXxe/lRVbaYW7cNIf0dlGde3PSd5W/EdYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\pagedlist\\1.3.0\\pagedlist.1.3.0.nupkg.sha512",
+    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\pagedlist.mvc\\3.1.0\\pagedlist.mvc.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PagedList 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "PagedList",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PagedList.Mvc 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "PagedList.Mvc",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

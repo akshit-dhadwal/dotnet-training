@@ -1,0 +1,26 @@
+﻿
+@model IEnumerable<EmployeeLinqTest.Models.JoinModel>
+
+
+    <div class="container">
+
+    <table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Technology</th>
+      </tr>
+      </thead>
+      <tbody>
+
+          @foreach(var tech in Model)
+          {
+          <tr>
+      <th scope="row">@tech.employeeModel.EmpName</th>
+      <td>@tech.emptechnology.EmpTechnology</td>
+      </tr>
+
+      }
+
+      </table>
+      </div>
