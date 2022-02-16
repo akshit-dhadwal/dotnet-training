@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj": {}
+    "C:\\Users\\Akshit Dadhwal\\Desktop\\dotnet-training-main\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj": {
+    "C:\\Users\\Akshit Dadhwal\\Desktop\\dotnet-training-main\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj",
+        "projectUniqueName": "C:\\Users\\Akshit Dadhwal\\Desktop\\dotnet-training-main\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj",
         "projectName": "EmployeeLinqTest",
-        "projectPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj",
+        "projectPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\dotnet-training-main\\EmployeeLinqTest\\EmployeeLinqTest\\EmployeeLinqTest.csproj",
         "packagesPath": "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\EmployeeLinqTest\\EmployeeLinqTest\\obj\\",
+        "outputPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\dotnet-training-main\\EmployeeLinqTest\\EmployeeLinqTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akshit Dadhwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
