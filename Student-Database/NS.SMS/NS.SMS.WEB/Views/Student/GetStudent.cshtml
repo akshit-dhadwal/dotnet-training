@@ -1,0 +1,35 @@
+﻿@model IEnumerable< NS.SMS.Model.StudentDeptModel>
+
+
+<h1>STUDENT DEPARTMENT DETAILS</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+        <th scope="col">Age</th>
+        <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Division</th>
+      <th scope="col">Email</th>
+      <th scope="col">FatherName</th>
+      <th scope="col">MotherName</th>
+      <th scope="col">DepartmentId</th>
+      <th scope="col">Department Name</th>
+    </tr>
+  </thead>
+  <tbody>
+      @foreach(var item in Model )
+      {
+    <tr>
+      <th scope="row">@item.Age</th>
+      <td>@item.Id</td>
+      <td>@item.Name</td>
+      <td>@item.Division</td>
+      <td>@item.Email</td>
+      <td>@item.FatherName</td>
+      <td>@item.MotherName</td>
+      <td>@item.DeptId</td>
+      <td>@item.DeptName</td>
+    </tr>
+      }
+    </table>

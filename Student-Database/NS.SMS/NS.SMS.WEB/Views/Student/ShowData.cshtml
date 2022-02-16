@@ -1,0 +1,35 @@
+﻿@model IEnumerable<NS.SMS.WEB.Entities.Student>
+
+
+@{
+    ViewData["Title"] = "ShowData";
+}
+
+
+
+<div class="containers">
+    <h1>ShowData</h1>
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+@foreach(var student in Model)
+    {
+        <div class="col">
+        <div class="card" style="width: 18rem;">
+     <div class="card-body">
+    @*<h1 class="card-title">@student.Id</h1>*@
+    <h1 class="card-subtitle mb-2 text-muted">@student.Name</h1>
+    <h4 class="card-subtitle mb-2 text-muted">Age - @student.Age</h4>
+    <h4 class="card-subtitle mb-2 text-muted">Class - @student.Division</h4>
+    <h4 class="card-subtitle mb-2 text-muted">Father Name - @student.FatherName</h4>
+    <h4 class="card-subtitle mb-2 text-muted">Mother Name - @student.MotherName</h4>
+    <h4 class="card-subtitle mb-2 text-muted">Email - @student.Email</h4>
+     <h4 class="card-subtitle mb-2 text-muted">Dept Name - @student.DeptId</h4>
+    @Html.ActionLink("Update","Update","Student",new{id = @student.Id})
+     @Html.ActionLink("Delete","Delete","Student",new{id = @student.Id})
+  </div>
+</div>
+</div>
+
+
+    }
+    </div>
+    </div>

@@ -1,0 +1,12 @@
+D:\Student-Database\NS.SMS\NS.SMS.Model\bin\Debug\net5.0\NS.SMS.Model.deps.json
+D:\Student-Database\NS.SMS\NS.SMS.Model\bin\Debug\net5.0\NS.SMS.Model.dll
+D:\Student-Database\NS.SMS\NS.SMS.Model\bin\Debug\net5.0\ref\NS.SMS.Model.dll
+D:\Student-Database\NS.SMS\NS.SMS.Model\bin\Debug\net5.0\NS.SMS.Model.pdb
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.AssemblyInfoInputs.cache
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.AssemblyInfo.cs
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.csproj.CoreCompileInputs.cache
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.dll
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\ref\NS.SMS.Model.dll
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.pdb
+D:\Student-Database\NS.SMS\NS.SMS.Model\obj\Debug\net5.0\NS.SMS.Model.csproj.AssemblyReference.cache

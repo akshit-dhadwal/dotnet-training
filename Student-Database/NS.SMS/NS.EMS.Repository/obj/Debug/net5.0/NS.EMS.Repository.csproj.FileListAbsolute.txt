@@ -1,0 +1,17 @@
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.EMS.Repository.deps.json
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.EMS.Repository.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\ref\NS.EMS.Repository.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.EMS.Repository.pdb
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.csproj.AssemblyReference.cache
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.AssemblyInfoInputs.cache
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.AssemblyInfo.cs
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.csproj.CoreCompileInputs.cache
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\ref\NS.EMS.Repository.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.pdb
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.SMS.Data.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.SMS.Data.pdb
+D:\Student-Database\NS.SMS\NS.EMS.Repository\obj\Debug\net5.0\NS.EMS.Repository.csproj.CopyComplete
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.SMS.Model.dll
+D:\Student-Database\NS.SMS\NS.EMS.Repository\bin\Debug\net5.0\NS.SMS.Model.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36de27cc-8850-4972-97dd-bbbd51d28305": {
+      "ProjectGuid": "36de27cc-8850-4972-97dd-bbbd51d28305",
+      "DisplayName": "NS.SMS.WEB",
+      "ColorIndex": 0
+    },
+    "7c8c91fc-d2e7-4109-9a2e-eb8636a73852": {
+      "ProjectGuid": "7c8c91fc-d2e7-4109-9a2e-eb8636a73852",
+      "DisplayName": "NS.SMS.Repository",
+      "ColorIndex": 1
+    },
+    "afe65c65-5c2f-43a3-8bbc-eb5abfd968d9": {
+      "ProjectGuid": "afe65c65-5c2f-43a3-8bbc-eb5abfd968d9",
+      "DisplayName": "NS.SMS.Data",
+      "ColorIndex": 2
+    },
+    "0b355665-4018-4dc9-a414-daa4cb90c2b5": {
+      "ProjectGuid": "0b355665-4018-4dc9-a414-daa4cb90c2b5",
+      "DisplayName": "NS.SMS.Business",
+      "ColorIndex": 3
+    },
+    "cd47c0d5-b8d1-499d-a50e-87743d5c80a9": {
+      "ProjectGuid": "cd47c0d5-b8d1-499d-a50e-87743d5c80a9",
+      "DisplayName": "NS.SMS.Model",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

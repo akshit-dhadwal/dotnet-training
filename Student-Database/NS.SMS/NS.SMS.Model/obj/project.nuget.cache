@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8kVUB9vIVde6KFtD7cHrd+WirD0xMCjLEK0YaNQOPLFhTPoKy95liKiIYWOBKyFHTsGR1UC/CERG3v21NxFrMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Student-Database\\NS.SMS\\NS.SMS.Model\\NS.SMS.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
