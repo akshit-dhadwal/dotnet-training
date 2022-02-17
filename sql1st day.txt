@@ -1,0 +1,31 @@
+create table TeacherData(
+        TeacherId int NOT NULL PRIMARY KEY,
+		TeacherName nvarchar(max),
+		TeacherAge int,
+		TeacherEmail varchar(max),
+		TeacherGender nvarchar(max)
+);
+
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(1,'Teacher1',26,'Teacher1@gmail.com','Male');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(2,'Teacher2',27,'Teacher2@gmail.com','Female');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(3,'Teacher1',26,'Teacher3@gmail.com','Male');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(4,'Teacher1',28,'Teacher4@gmail.com','Male');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(5,'Teacher1',30,'Teacher5@gmail.com','Male');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(6,'Teacher1',35,'Teacher6@gmail.com','Female');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(7,'Teacher1',31,'Teacher7@gmail.com','Male');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(8,'Teacher1',36,'Teacher8@gmail.com','Female');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(9,'Teacher1',46,'Teacher9@gmail.com','Female');
+Insert into TeacherData(TeacherId,TeacherName,TeacherAge,TeacherEmail,TeacherGender) VALUES(10,'Teacher1',37,'Teacher10@gmail.com','Female');
+
+
+
+select TeacherId,TeacherName,TeacherEmail into #TempTeacherData from TeacherData
+GO
+select * from #TempTeacherData
+
+
+UPDATE TeacherData 
+SET 
+    TeacherName = 'Teacher10'
+WHERE
+    TeacherId = 10;
