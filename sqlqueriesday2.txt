@@ -1,0 +1,26 @@
+select distinct TeacherSalary from TeacherData
+
+SELECT max(TeacherDeptId) as deptid , TeacherName
+FROM TeacherData
+GROUP BY TeacherName
+ORDER BY max(TeacherDeptId) DESC
+
+Select count(TeacherName) from TeacherData
+where TeacherId = 1 or TeacherGender = 'Male'
+
+SELECT TeacherName , TeacherEmail
+FROM TeacherData
+WHERE TeacherName is not null
+
+Select * from TeacherData
+where TeacherName like '%1' 
+
+SELECT t.TeacherId, t.TeacherName, t.TeacherEmail,t.TeacherSalary,d.TeacherExperience
+FROM TeacherData AS t
+INNER JOIN Department as d ON t.TeacherId=d.TeacherDeptId;
+
+
+SELECT t.TeacherName, d.TeacherExperience,d.TeacherDeptId
+FROM Department as d
+LEFT JOIN TeacherData as t ON t.TeacherId=d.TeacherDeptId
+ORDER BY t.TeacherDeptId desc;
