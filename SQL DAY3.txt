@@ -1,0 +1,48 @@
+SELECT DetailId FROM TeacherData
+UNION ALL
+SELECT DetailId FROM Detail
+
+SELECT DetailId FROM TeacherData
+UNION 
+SELECT DetailId FROM Detail
+
+create view [detailjoining] as
+SELECT T.TeacherId, T.TeacherName, T.TeacherEmail,T.TeacherSalary,D.TeacherExperience,M.TeacherAddress,M.TeacherDOB
+FROM TeacherData AS T
+INNER JOIN Department as D ON T.TeacherId=D.TeacherDeptId
+Left Join Detail as M ON T.DetailId=M.DetailId
+
+select * from [detailjoining]
+
+
+----PAGINATION-----
+
+DECLARE @PageNumber AS INT
+DECLARE @RowsOfPage AS INT
+SET @PageNumber=1
+SET @RowsOfPage=4
+ SELECT TeacherName,TeacherAge,TeacherGender,TeacherEmail,TeacherSalary FROM TeacherData
+ ORDER BY TeacherSalary
+OFFSET (@PageNumber-1)*@RowsOfPage ROWS
+FETCH NEXT @RowsOfPage ROWS ONLY
+
+
+
+exec [uspgetTeacher]
+
+CREATE PROCEDURE [dbo].[uspgetTeacher]  
+ -- Add the parameters for the stored procedure here  
+   
+   
+AS  
+BEGIN  
+ -- SET NOCOUNT ON added to prevent extra result sets from  
+ -- interfering with SELECT statements.  
+ SET NOCOUNT ON;  
+  
+    -- Insert statements for procedure here  
+ SELECT T.TeacherId, T.TeacherName, T.TeacherEmail,T.TeacherSalary,D.[TeacherAddress],D.[TeacherDOB]  
+FROM TeacherData AS T  
+INNER JOIN  Detail as D ON T.DetailId=D.DetailId  
+  
+END
